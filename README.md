@@ -25,6 +25,7 @@ This will create an image gallery. There are a few properties to be aware of:
 
 ## Step By Step
 
+1. [Download](https://github.com/bhollis/aspnet-imagegallery/downloads) the control.
 1. Unzip the archive and copy the four files `imagegallery.ascx`, `imagegallery.ascx.cs`, and `thumbnail.ashx` into your web site's directory.
 2. Register the tag, as shown in the code above.
 3. Put the tag where you want the gallery, and set the appropriate options.
